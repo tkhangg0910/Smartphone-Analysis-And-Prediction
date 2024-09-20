@@ -1,5 +1,6 @@
 # Smartphone-Dataset-Analyze
 <h3>Data source: https://www.kaggle.com/datasets/informrohit1/smartphones-dataset</h3>
+<h3>Kaggle notebook: https://www.kaggle.com/code/tnkhanghunh/smartphone-data-analyze</h3>
 
 <h3 align="left">Languages and Tools in this project:</h3>
 
