@@ -1,4 +1,4 @@
-# Smartphone-Dataset-Analyze
+![image](https://github.com/user-attachments/assets/695ef2f0-1860-4a63-b491-953d0b570e45)# Smartphone-Dataset-Analyze
 <h3>Data source: https://www.kaggle.com/datasets/informrohit1/smartphones-dataset</h3>
 <h3>Kaggle notebook: https://www.kaggle.com/code/tnkhanghunh/smartphone-data-analyze</h3>
 
@@ -12,7 +12,7 @@
         <a href="https://plotly.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" alt="python" width="40" height="40"/>   </a> 
         <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/288276?s=200&v=4" alt="python" width="40" height="40"/>   </a> 
         <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/365630?s=48&v=4" alt="python" width="40" height="40"/>   </a> 
-        <a href="https://lightgbm.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABw0lEQVR4AcXSAURDURiG4ePKJEmIaiWTqSQhCQEqFCQkJEkCIZk1JIRAkiTRAIFAyDbDJBmGZJEGhADJYmauNda7OEA7x/K7/TwA3u9cV9W7/OzAIpICTtGuGr3PucEwqn9F1MUBmhXn6QCiGYzaK8IDiBawDUdxng4gmkBAmU9+ANF3rECZT3gAwZpLdKg6F45NqZ349BJWRAcQfcWsMhxRP64jiZlqJDEdEhlAtIJjtBrCNRvI1+JiA4hmMWF5dT9SOiwygGgJu/AZwk0IoaijIgOI3mHA8uoRZHRMbABhPxxD2Id9uDpkHCB9hPuwiSge4Ho2wPBFxrCBc2RQ8myA4eccRVA1ev6LlwCCcP5lfc9FLtwTzVUZkMctjrCMITieDfgNAwq4xwlW0evpAI1wGYdoUXXuK9bpoFd8ANEsxpXhCA8jXYl1hsQGEHWxB58h7MM+3Eq8qyo2gGgaw5ZXT+L5JwyRAUQL2IJjCLfhDBUdFhlANImA5dXzeNNBkQFE17EGU7gLV9AxuQHdR0+mcM06PnREfIAhHkTKEpUfQLQJERQtQfkBRMfwaAnJDyDagkOULRH5AUTbcYIbAQv1Ot+oROl5QRDzEQAAAABJRU5ErkJggg==" alt="python" width="40" height="40"/>   </a> 
+        <a href="https://lightgbm.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://lightgbm.readthedocs.io/en/stable/_images/LightGBM_logo_black_text.svg" alt="python" width="40" height="40"/>   </a> 
 
 </p>
 ---
