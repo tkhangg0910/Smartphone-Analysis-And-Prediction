@@ -11,6 +11,7 @@
         <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" alt="python" width="40" height="40"/>   </a> 
         <a href="https://plotly.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" alt="python" width="40" height="40"/>   </a> 
         <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/288276?s=200&v=4" alt="python" width="40" height="40"/>   </a> 
+        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/365630?s=48&v=4" alt="python" width="40" height="40"/>   </a> 
 </p>
 
 ---
