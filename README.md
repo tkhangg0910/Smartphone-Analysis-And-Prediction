@@ -13,8 +13,7 @@
         <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/288276?s=200&v=4" alt="python" width="40" height="40"/>   </a> 
         <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/365630?s=48&v=4" alt="python" width="40" height="40"/>   </a> 
         <a href="https://lightgbm.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://lightgbm.readthedocs.io/en/stable/_images/LightGBM_logo_black_text.svg" alt="python" width="40" height="40"/>   </a> 
-        <a href="https://xgboost.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/vqzfmqnwwgfzcoc5r9dr
-" alt="python" width="40" height="40"/>   </a> 
+        <a href="https://xgboost.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://www.intel.com/content/dam/www/central-libraries/us/en/images/2022-11/xgboost-logo-rwd.png.rendition.intel.web.480.360.png" alt="python" width="40" height="40"/>   </a> 
 </p>
 ---
 
