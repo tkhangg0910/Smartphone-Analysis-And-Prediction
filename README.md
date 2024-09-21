@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/695ef2f0-1860-4a63-b491-953d0b570e45)# Smartphone-Dataset-Analyze
+# Smartphone-Dataset-Analyze
 <h3>Data source: https://www.kaggle.com/datasets/informrohit1/smartphones-dataset</h3>
 <h3>Kaggle notebook: https://www.kaggle.com/code/tnkhanghunh/smartphone-data-analyze</h3>
 
