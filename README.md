@@ -1,4 +1,4 @@
-# Smartphone-Dataset-Analyze
+# Smartphone-Dataset-Analyze-And_Prediction
 <h3>Data source: https://www.kaggle.com/datasets/informrohit1/smartphones-dataset</h3>
 <h3>Kaggle notebook: https://www.kaggle.com/code/tnkhanghunh/smartphone-data-analyze</h3>
 
@@ -14,8 +14,7 @@
         <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/365630?s=48&v=4" alt="python" width="40" height="40"/>   </a> 
         <a href="https://lightgbm.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://lightgbm.readthedocs.io/en/stable/_images/LightGBM_logo_black_text.svg" alt="python" width="40" height="40"/>   </a> 
         <a href="https://xgboost.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://www.intel.com/content/dam/www/central-libraries/us/en/images/2022-11/xgboost-logo-rwd.png.rendition.intel.web.480.360.png" alt="python" width="40" height="40"/>   </a> 
-        <a href="https://optuna.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/57251745?s=48&v=4
-" alt="python" width="40" height="40"/>   </a> 
+        <a href="https://optuna.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/57251745?s=48&v=4" alt="python" width="40" height="40"/>   </a> 
 </p>
 ---
 
